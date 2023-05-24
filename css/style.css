@@ -16,31 +16,16 @@ body{
 /* fin de estilos generales */
 
 /* inicio de estilos de mi header */
+
 header{
     background-color: #F8BF55;
     border-bottom: 5px solid #ffa807;
 }
-header img{
+
+.img-logo{
     text-align: left;
 }
 
-header nav ul{
-    list-style: none;
-    text-align: right;
-    text-transform: uppercase;
-}
-
-header nav ul li{
-    font-size: 20px;
-    display: inline-block;
-    margin-left: 20px;
-    padding: 5px;
-}
-
-header nav ul li a{
-    text-decoration: none;
-    color: black;
-}
 /* fin de estilos de mi header */
 
 /* inicio de estilos del main */
@@ -52,7 +37,7 @@ header nav ul li a{
 }
 
 /* inicio parrafo 1 */
-.h1delhome{
+.h2delhome-1{
     margin: 20px 30px 0px 30px;
     padding: 20px 0px 0px 0px;
     background-color:#78c9e9;
@@ -80,7 +65,7 @@ header nav ul li a{
 /* fin parrafo 1 */
 
 /* inicio parrafo 2 */
-.h2delhome{
+.h2delhome-2{
     margin: 20px 30px 0px 30px;
     padding: 20px 0px 0px 0px;
     background-color: #a3e488;
