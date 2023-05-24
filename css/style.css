@@ -119,7 +119,7 @@ header{
 }
 
 
-.h1-de-sobrechances{
+.h2-de-sobrechances{
     text-align: center;
 }
 
@@ -179,7 +179,7 @@ div p{
     background-image: url(../img/img-de-los-fondos/fondo-web-violeta.png);
 }
 
-.h1-de-allmethod{
+.h2-de-allmethod{
     text-align: center;
     padding: 30px;
 }
@@ -188,7 +188,7 @@ div p{
     text-align: center;
 }
 
-main h1 a{
+main h2 a{
     text-decoration: none;
     color: black;
 }
