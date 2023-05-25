@@ -188,7 +188,7 @@ div p{
     text-align: center;
 }
 
-main h2 a{
+main h a{
     text-decoration: none;
     color: black;
 }
@@ -199,13 +199,22 @@ main h2 a{
 
 /* inicio de estilos del footer */
 footer{
-    background-color: #ff7c75;
-    border-top: 5px solid #f9453b;
+    background-color: rgb(255, 236, 116);
+    border-top: 5px solid rgb(250, 217, 0);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    
+
 }
 
 .derechos{
     padding: 20px 0px 20px 0px;
-    text-align: center;
+}
+
+.redes{
+    list-style: none; 
 }
 
 /* find de estilos del footer */
