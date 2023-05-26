@@ -107,6 +107,14 @@ header{
 }
 /* fin parrafo 2 */
 
+@media screen and (max-width:600px){
+    .contenedor-home{
+        margin: 20px;
+        padding: 20px;
+    }
+}
+    
+
 /* fin de la pag home */
 
 /* inicio de la pag sobre chances */
